@@ -181,16 +181,16 @@ Para garantizar la justicia y evitar el plagio o la tercerización de proyectos,
 ## 7. Entregables Finales
 
 
-1. **Video Trailer:** Formato MP4, duración máxima 1:30 min.
-2. **Build Jugable:** Ejecutable (.exe, HTML5, etc) funcional.
-3. **Código Fuente:** Acceso al repositorio o carpeta de proyecto para revisión de los jueces.
-4. **Ficha de Registro de IA:** Documento declarando si se usó IA y en qué partes.
+1. **Video Trailer:** Formato MP4, duración máxima 2:00 min.
+2. **Build Jugable:** Ejecutable (.exe, HTML5, etc) funcional
+3. **Código Fuente:** Acceso al repositorio o carpeta de proyecto para revisión de los jueces
+4. **Ficha de Registro de IA:** Documento declarando si se usó IA y en qué partes
 
 
 
 
 # contact
-- [Docente titular](mailto:daniel.avina.neri@gmail.com)
+- [Docente titular](mailto:dora.almanza@ugto.mx)
 - [Alumno Organizador](mailto:ld.avinaneri@ugto.mx)
 - [Github](https://github.com/ldan-dev)
 
